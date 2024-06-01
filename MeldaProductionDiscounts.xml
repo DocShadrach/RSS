@@ -1,1 +1,43 @@
-PRUEBA
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>MeldaProduction Discounts</title>
+<link>https://www.meldaproduction.com/discounts</link>
+<description>Latest discounts from MeldaProduction</description>
+<item>
+<title>MAutoVolume</title>
+<link>https://www.meldaproduction.com</link>
+<description>Descuento: 50%</description>
+</item>
+<item>
+<title>MCabinet</title>
+<link>https://www.meldaproduction.com</link>
+<description>Descuento: 50%</description>
+</item>
+<item>
+<title>MReverb</title>
+<link>https://www.meldaproduction.com</link>
+<description>Descuento: 50%</description>
+</item>
+<item>
+<title>MSaturatorMB</title>
+<link>https://www.meldaproduction.com</link>
+<description>Descuento: 50%</description>
+</item>
+<item>
+<title>PowerStrings</title>
+<link>https://www.meldaproduction.com</link>
+<description>Descuento: 87%</description>
+</item>
+<item>
+<title>MDrumLeveler</title>
+<link>https://www.meldaproduction.com</link>
+<description>Descuento: 71%</description>
+</item>
+<item>
+<title>MGuitarArchitect</title>
+<link>https://www.meldaproduction.com</link>
+<description>Descuento: 67%</description>
+</item>
+</channel>
+</rss>
