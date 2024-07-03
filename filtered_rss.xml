@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Steinberg HALion Sonic 7 v7.1.0 WiN</title>
+      <link>https://audioz.download/software/259596-download_steinberg-halion-sonic-7-v710-win.html</link>
+      <pubDate>Wed, 03 Jul 2024 09:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steinberg HALion 7 v7.1.0 WiN</title>
+      <link>https://audioz.download/software/259595-download_steinberg-halion-7-v710-win.html</link>
+      <pubDate>Wed, 03 Jul 2024 09:41:56 +0000</pubDate>
+    </item>
+    <item>
       <title>UVI Tape Suite v1.0.1-R2R</title>
       <link>https://audioz.download/software/win/259591-download_uvi-tape-suite-v101-r2r.html</link>
       <pubDate>Wed, 03 Jul 2024 06:16:30 +0000</pubDate>
@@ -51,11 +61,6 @@
       <title>Plugin Alliance Bettermaker BM60 v1.0.1-TCD</title>
       <link>https://audioz.download/software/win/259537-download_plugin-alliance-bettermaker-bm60-v101-tcd.html</link>
       <pubDate>Tue, 02 Jul 2024 21:04:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>FireSonic FireSpacer v1.0.0-BUBBiX</title>
-      <link>https://audioz.download/software/259534-download_firesonic-firespacer-v100-bubbix.html</link>
-      <pubDate>Tue, 02 Jul 2024 19:47:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
