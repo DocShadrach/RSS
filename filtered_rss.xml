@@ -3,6 +3,26 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Steinberg Nuendo 13 v13.0.41-R2R</title>
+      <link>https://audioz.download/software/win/259752-download_steinberg-nuendo-13-v13041-r2r.html</link>
+      <pubDate>Sat, 06 Jul 2024 11:25:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steinberg Cubase Pro 13 v13.0.41-R2R</title>
+      <link>https://audioz.download/software/win/259751-download_steinberg-cubase-pro-13-v13041-r2r.html</link>
+      <pubDate>Sat, 06 Jul 2024 11:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steinberg WaveLab Pro 12 v12.0.20-R2R</title>
+      <link>https://audioz.download/software/win/259750-download_steinberg-wavelab-pro-12-v12020-r2r.html</link>
+      <pubDate>Sat, 06 Jul 2024 11:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steinberg WaveLab Cast 2 v2.0.21-R2R</title>
+      <link>https://audioz.download/software/win/259749-download_steinberg-wavelab-cast-2-v2021-r2r.html</link>
+      <pubDate>Sat, 06 Jul 2024 11:19:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Steinberg SpectraLayers Pro 11 v11.0.10-R2R</title>
       <link>https://audioz.download/software/win/259748-download_steinberg-spectralayers-pro-11-v11010-r2r.html</link>
       <pubDate>Sat, 06 Jul 2024 11:16:51 +0000</pubDate>
@@ -66,11 +86,6 @@
       <title>Yuri Semenov YS Tube CMP v1.02 Win Mac [FREE]</title>
       <link>https://audioz.download/software/win/259626-download_yuri-semenov-ys-tube-cmp-v102-win-mac-free.html</link>
       <pubDate>Fri, 05 Jul 2024 20:17:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>WA Production KSHMR Essentials Kick v1.1.0 VST VST3 AU AAX WiN MAC [FREE]</title>
-      <link>https://audioz.download/software/win/259687-download_wa-production-kshmr-essentials-kick-v110-vst-vst3-au-aax-win-mac-free.html</link>
-      <pubDate>Fri, 05 Jul 2024 17:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
