@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Full Discography 1.6.9</title>
+      <link>https://audioz.download/software/262039-download_full-discography-169.html</link>
+      <pubDate>Sun, 18 Aug 2024 11:12:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>All Remixes 1.3.9</title>
+      <link>https://audioz.download/software/262038-download_all-remixes-139.html</link>
+      <pubDate>Sun, 18 Aug 2024 11:09:35 +0000</pubDate>
+    </item>
+    <item>
       <title>The Usual Suspects Osirus (DSP56300 Emulator) 1.3.19 MultiOS + ROM's [FREE]</title>
       <link>https://audioz.download/software/262027-download_the-usual-suspects-osirus-dsp56300-emulator-1319-multios-roms-free.html</link>
       <pubDate>Sat, 17 Aug 2024 23:43:46 +0000</pubDate>
@@ -51,16 +61,6 @@
       <title>Uwyn ShowMIDI (MiDi Activity Monitor Plugin) v1.0.1 VST VST3 AU CLAP LV2 STANDALONE LiNUX WiN MAC [FREE]</title>
       <link>https://audioz.download/software/win/262001-download_uwyn-showmidi-midi-monitor-plugin-v101-vst-vst3-au-clap-lv2-standalone-linux-win-mac-free.html</link>
       <pubDate>Sat, 17 Aug 2024 13:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>GForce Oberheim OB-X v1.0.1-TCD</title>
-      <link>https://audioz.download/software/win/262003-download_gforce-oberheim-ob-x-v101-tcd.html</link>
-      <pubDate>Sat, 17 Aug 2024 09:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>GForce Oddity3 v1.0.2-TCD</title>
-      <link>https://audioz.download/software/win/262002-download_gforce-oddity3-v102-tcd.html</link>
-      <pubDate>Sat, 17 Aug 2024 09:34:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
