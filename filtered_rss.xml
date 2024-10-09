@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Steinberg Dorico Pro 5.1.60</title>
+      <link>https://audioz.download/software/265338-download_steinberg-dorico-pro-5160.html</link>
+      <pubDate>Wed, 09 Oct 2024 08:34:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Arturia Synthx V v1.0.0-R2R</title>
       <link>https://audioz.download/software/win/265333-download_arturia-synthx-v-v100-r2r.html</link>
       <pubDate>Wed, 09 Oct 2024 04:14:45 +0000</pubDate>
@@ -41,11 +46,6 @@
       <title>MiniMeters v0.8.23 WiN MAC LiNUX</title>
       <link>https://audioz.download/software/win/265291-download_minimeters-v0823-win-mac-linux.html</link>
       <pubDate>Tue, 08 Oct 2024 15:17:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tunelf Audio Converter v1.5.0.11</title>
-      <link>https://audioz.download/software/win/265287-download_tunelf-audio-converter-v15011.html</link>
-      <pubDate>Tue, 08 Oct 2024 14:52:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
