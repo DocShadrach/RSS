@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Full Discography 1.8.0</title>
+      <link>https://audioz.download/software/271516-download_full-discography-180.html</link>
+      <pubDate>Thu, 23 Jan 2025 14:31:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Steinberg Dorico Pro 5.1.81</title>
       <link>https://audioz.download/software/271498-download_steinberg-dorico-pro-5181.html</link>
       <pubDate>Thu, 23 Jan 2025 09:40:57 +0000</pubDate>
@@ -46,16 +51,6 @@
       <title>Kuassa BasiQ 2 Equalizer v2.0.1 VST VST3 AU AAX WiN MAC [FREE]</title>
       <link>https://audioz.download/software/win/271479-download_kuassa-basiq-2-equalizer-v201-vst-vst3-au-aax-win-mac-free.html</link>
       <pubDate>Thu, 23 Jan 2025 00:35:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colugo Blockhead v0.43.0 Alpha WiN/OSX/LiNUX-FANTASTiC</title>
-      <link>https://audioz.download/software/win/271454-download_colugo-blockhead-v0430-alpha-win-osx-linux-fantastic.html</link>
-      <pubDate>Wed, 22 Jan 2025 23:58:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kiriki Liszt SVEQ (Clean Surgical EQ) v1.0.0 VST3 AU WiN MAC [FREE]</title>
-      <link>https://audioz.download/software/win/271480-download_kiriki-liszt-sveq-v100-vst3-au-win-mac-free.html</link>
-      <pubDate>Wed, 22 Jan 2025 22:29:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
