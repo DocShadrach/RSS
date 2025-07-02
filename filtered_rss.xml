@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>PreSonus Studio One 7 v7.2.1-R2R</title>
+      <link>https://audioz.download/software/win/279762-download_presonus-studio-one-7-v721-r2r.html</link>
+      <pubDate>Tue, 01 Jul 2025 23:43:30 +0000</pubDate>
+    </item>
+    <item>
       <title>TEAM R2R KONTAKT Manager v1.1.15-R2R</title>
       <link>https://audioz.download/software/win/279753-download_team-r2r-kontakt-manager-v1115-r2r.html</link>
       <pubDate>Tue, 01 Jul 2025 23:02:53 +0000</pubDate>
@@ -81,11 +86,6 @@
       <title>SoundThread 0.3.0 Beta [FREE]</title>
       <link>https://audioz.download/software/279723-download_soundthread-030-beta-free.html</link>
       <pubDate>Tue, 01 Jul 2025 14:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>benny Build 24-06-25 [FREE]</title>
-      <link>https://audioz.download/software/279722-download_benny-build-24-06-25-free.html</link>
-      <pubDate>Tue, 01 Jul 2025 14:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
