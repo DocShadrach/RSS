@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>KORG multipoly native v1.0.5-TCD</title>
+      <link>https://audioz.download/software/281384-download_korg-multipoly-native-v105-tcd.html</link>
+      <pubDate>Wed, 06 Aug 2025 23:25:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Aurora DSP Laboga DS v1.0.5-TeamCubeadooby</title>
       <link>https://audioz.download/software/win/281379-download_aurora-dsp-laboga-ds-v105-teamcubeadooby.html</link>
       <pubDate>Wed, 06 Aug 2025 19:17:40 +0000</pubDate>
@@ -51,11 +56,6 @@
       <title>Excite Audio Motion Harmonic v1.2.4-BTCR (Win/macOS)</title>
       <link>https://audioz.download/software/281348-download_excite-audio-motion-harmonic-v124-win-macos-btcr.html</link>
       <pubDate>Tue, 05 Aug 2025 19:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Excite Audio Motion Dimension v1.0.3-BTCR (Win/macOS)</title>
-      <link>https://audioz.download/software/281347-download_excite-audio-motion-dimension-v103-btcr-win-macos.html</link>
-      <pubDate>Tue, 05 Aug 2025 19:36:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
