@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Native Instruments Kontakt 7 v7.10.9</title>
+      <link>https://audioz.download/software/281730-download_native-instruments-kontakt-7-v7109.html</link>
+      <pubDate>Wed, 13 Aug 2025 19:07:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Cockos REAPER 7.43</title>
       <link>https://audioz.download/software/win/281727-download_cockos-reaper-743.html</link>
       <pubDate>Wed, 13 Aug 2025 16:17:48 +0000</pubDate>
@@ -71,11 +76,6 @@
       <title>Xfer Records Serum 2 v2.0.21-TCD</title>
       <link>https://audioz.download/software/281687-download_xfer-records-serum-2-v2021-tcd.html</link>
       <pubDate>Tue, 12 Aug 2025 18:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xfer Records Serum v2.0.21 - V.R</title>
-      <link>https://audioz.download/software/281686-download_xfer-records-serum-v2021-vr.html</link>
-      <pubDate>Tue, 12 Aug 2025 18:05:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
