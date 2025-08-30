@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Avid Media Composer 2025.6-V.R</title>
+      <link>https://audioz.download/software/282516-download_avid-media-composer-20256-vr.html</link>
+      <pubDate>Sat, 30 Aug 2025 22:12:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cytomic Effects Bundle v2025.8-TCD</title>
+      <link>https://audioz.download/software/win/282514-download_cytomic-effects-bundle-v20258-tcd.html</link>
+      <pubDate>Sat, 30 Aug 2025 21:48:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Plugin Alliance SPL Vitalizer MK3-T v1.0.0-TCD</title>
       <link>https://audioz.download/software/win/282513-download_plugin-alliance-spl-vitalizer-mk3-t-v100-tcd.html</link>
       <pubDate>Sat, 30 Aug 2025 21:04:05 +0000</pubDate>
@@ -51,11 +61,6 @@
       <title>ITubeGo Musify v4.4.0 Multilingual</title>
       <link>https://audioz.download/software/win/282472-download_itubego-musify-v440-multilingual.html</link>
       <pubDate>Fri, 29 Aug 2025 13:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cockos REAPER 7.45</title>
-      <link>https://audioz.download/software/win/282478-download_cockos-reaper-745.html</link>
-      <pubDate>Fri, 29 Aug 2025 13:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
