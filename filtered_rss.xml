@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Imaginando GRFX v1.0.3-TCD</title>
+      <link>https://audioz.download/software/win/284962-download_imaginando-grfx-v103-tcd.html</link>
+      <pubDate>Mon, 20 Oct 2025 13:16:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Modartt Pianoteq v8.3.1 Rev.3 WiN-vkDanilov</title>
       <link>https://audioz.download/software/284955-download_modartt-pianoteq-v831-rev3-win-vkdanilov.html</link>
       <pubDate>Mon, 20 Oct 2025 11:43:40 +0000</pubDate>
@@ -21,11 +26,6 @@
       <title>Odeholm Audio Thall Amp v1.0.3-R2R</title>
       <link>https://audioz.download/software/win/284933-download_odeholm-audio-thall-amp-v103-r2r.html</link>
       <pubDate>Sun, 19 Oct 2025 16:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pianoteq Pro v8.3.1 STANDALONE, VSTi, VSTi3, AAX x64</title>
-      <link>https://audioz.download/software/284928-download_pianoteq-v831-standalone-vsti-vsti3-aax-x64.html</link>
-      <pubDate>Sun, 19 Oct 2025 15:10:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
