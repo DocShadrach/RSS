@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Native Instruments Kontakt 8 v8.7.2 WiN-bobdule</title>
+      <link>https://audioz.download/software/285390-download_native-instruments-kontakt-8-v872-win-bobdule.html</link>
+      <pubDate>Wed, 29 Oct 2025 18:33:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Modartt - Pianoteq v9.0.1 STANDALONE VST3i x64 Rev2</title>
       <link>https://audioz.download/software/285383-download_modartt-pianoteq-v901-standalone-vst3i-x64-rev2.html</link>
       <pubDate>Wed, 29 Oct 2025 16:24:35 +0000</pubDate>
@@ -146,11 +151,6 @@
       <title>Pulsar Audio IPA 25 v1.0.14-R2R</title>
       <link>https://audioz.download/software/win/285343-download_pulsar-audio-ipa-25-v1014-r2r.html</link>
       <pubDate>Wed, 29 Oct 2025 07:50:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pulsar Audio MP-EQ v2.0.3-R2R</title>
-      <link>https://audioz.download/software/win/285342-download_pulsar-audio-mp-eq-v203-r2r.html</link>
-      <pubDate>Wed, 29 Oct 2025 07:48:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
