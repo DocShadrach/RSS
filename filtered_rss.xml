@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Serato Sample v2.1.0 - V.R</title>
+      <link>https://audioz.download/software/285428-download_serato-sample-v210-vr.html</link>
+      <pubDate>Fri, 31 Oct 2025 10:56:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Cockos REAPER v7.51</title>
       <link>https://audioz.download/software/win/285423-download_cockos-reaper-v751.html</link>
       <pubDate>Thu, 30 Oct 2025 22:16:01 +0000</pubDate>
@@ -66,31 +71,6 @@
       <title>Native Instruments Kontakt 8 v8.7.2 WiN-bobdule</title>
       <link>https://audioz.download/software/285390-download_native-instruments-kontakt-8-v872-win-bobdule.html</link>
       <pubDate>Wed, 29 Oct 2025 18:33:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modartt - Pianoteq v9.0.1 STANDALONE VST3i x64 Rev2</title>
-      <link>https://audioz.download/software/285383-download_modartt-pianoteq-v901-standalone-vst3i-x64-rev2.html</link>
-      <pubDate>Wed, 29 Oct 2025 16:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Soundify Vocal Remover 1.2.7</title>
-      <link>https://audioz.download/software/285382-download_soundify-vocal-remover-127.html</link>
-      <pubDate>Wed, 29 Oct 2025 15:07:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steinberg VST Live Pro 2 v2.2.60-R2R</title>
-      <link>https://audioz.download/software/win/285378-download_steinberg-vst-live-pro-2-v2260-r2r.html</link>
-      <pubDate>Wed, 29 Oct 2025 14:49:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steinberg SpectraLayers 12 v12.0.30 Update-R2R</title>
-      <link>https://audioz.download/software/win/285377-download_steinberg-spectralayers-12-v12030-update-r2r.html</link>
-      <pubDate>Wed, 29 Oct 2025 14:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steinberg Nuendo 14 v14.0.40-R2R</title>
-      <link>https://audioz.download/software/win/285376-download_steinberg-nuendo-14-v14040-r2r.html</link>
-      <pubDate>Wed, 29 Oct 2025 14:49:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
