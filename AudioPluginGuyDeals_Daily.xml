@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2025-12-06)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2025-12-07)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2025-12-06.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2025-12-07.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[SAVE BIG] FeelYourSound Big Fat Winter Cat Sale: Save up to 60%</title>
-<link>https://feelyoursound.com</link>
-<description>Descuento: 60% - Desarrollador: FeelYourSound - Finaliza: 2026-01-06</description>
-<pubDate>Sat, 06 Dec 2025 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://feelyoursound.com</guid>
+<title>[SAVE BIG] [HOT] Plugin Alliance Holiday Season Deals &#8211; up to 93% on 200+ plugins.Plugin Alliance</title>
+<link>https://plugin-alliance.sjv.io/pop-up-shop</link>
+<description>Descuento: 93% - Desarrollador: Plugin Alliance - Finaliza: 2025-12-31</description>
+<pubDate>Sun, 07 Dec 2025 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://plugin-alliance.sjv.io/pop-up-shop</guid>
+</item>
+<item>
+<title>[FREEBIE] [SAVE BIG] [HOT] Authentic Soundware is offering Space Age Sleigh Bells library for Kontakt (full version) as a free gift.Authentic Soundware</title>
+<link>https://authentic-soundware.com/products/space-age-sleigh-bells</link>
+<description>Descuento: 100% - Desarrollador: Authentic Soundware - Finaliza: 2025-12-25</description>
+<pubDate>Sun, 07 Dec 2025 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://authentic-soundware.com/products/space-age-sleigh-bells</guid>
+</item>
+<item>
+<title>[SAVE BIG] [HOT] Boz Digital labs Holiday Sale &#8211; up to 81% off on select plugins.Boz Digital Labs</title>
+<link>https://www.bozdigitallabs.com/?ref=3</link>
+<description>Descuento: 81% - Desarrollador: Boz Digital Labs - Finaliza: 2025-12-31</description>
+<pubDate>Sun, 07 Dec 2025 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.bozdigitallabs.com/?ref=3</guid>
+</item>
+<item>
+<title>[SAVE BIG] Sonokinetic 12 Days of Christmas &#8211; exclusive deals each day with up to 80% discount.Sonokinetic</title>
+<link>https://go.sonokinetic.net/</link>
+<description>Descuento: 80% - Desarrollador: Sonokinetic - Finaliza: 2025-12-18</description>
+<pubDate>Sun, 07 Dec 2025 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://go.sonokinetic.net/</guid>
+</item>
+<item>
+<title>[SAVE BIG] DAWJunkie Christmas Sale &#8211; up to 80% off on selected plugins ($9.95 each).DAWJunkie</title>
+<link>https://dawjunkie.com/product-tag/sale/</link>
+<description>Descuento: 80% - Desarrollador: DAWJunkie - Finaliza: 2025-12-31</description>
+<pubDate>Sun, 07 Dec 2025 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dawjunkie.com/product-tag/sale/</guid>
+</item>
+<item>
+<title>[HOT] Soundtoys Holiday Sale &#8211; 50% off on all bundles, upgrades and effects.Soundtoys</title>
+<link>https://www.soundtoys.com/</link>
+<description>Descuento: 50% - Desarrollador: Soundtoys - Finaliza: 2026-01-01</description>
+<pubDate>Sun, 07 Dec 2025 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.soundtoys.com/</guid>
 </item>
 </channel>
 </rss>
