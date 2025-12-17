@@ -3,9 +3,14 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
-      <title>Arturia Universal Patcher v1.1 For R2R Emulator</title>
+      <title>Arturia Universal Patcher v1.1 For R2R Emulator (Fixed)</title>
       <link>https://audioz.download/software/win/287652-download_arturia-universal-patcher-v11-for-r2r-emulator.html</link>
-      <pubDate>Wed, 17 Dec 2025 18:09:55 +0000</pubDate>
+      <pubDate>Wed, 17 Dec 2025 19:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>CyberLink PowerDirector Ultimate 2026 v24.0.1216.0</title>
+      <link>https://audioz.download/software/win/287654-download_cyberlink-powerdirector-ultimate-2026-v24012160.html</link>
+      <pubDate>Wed, 17 Dec 2025 19:24:54 +0000</pubDate>
     </item>
     <item>
       <title>Arturia Analog Lab V Pro v5.12.2 - V.R</title>
@@ -66,11 +71,6 @@
       <title>Overloud TH-U Premium v2.0.9 - V.R</title>
       <link>https://audioz.download/software/287609-download_overloud-th-u-premium-v209-vr.html</link>
       <pubDate>Tue, 16 Dec 2025 22:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural DSP Archetype Petrucci X v1.0.0-R2R</title>
-      <link>https://audioz.download/software/win/287606-download_neural-dsp-archetype-petrucci-x-v100-r2r.html</link>
-      <pubDate>Tue, 16 Dec 2025 21:23:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
