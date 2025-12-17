@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>MAGIX VEGAS Pro v23.0.0.356</title>
+      <link>https://audioz.download/software/win/287623-download_magix-vegas-pro-v2300356.html</link>
+      <pubDate>Wed, 17 Dec 2025 06:31:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Boris FX Samplitude Suite v2025.0.3.25267</title>
       <link>https://audioz.download/software/287622-download_boris-fx-samplitude-suite-v20250325267.html</link>
       <pubDate>Wed, 17 Dec 2025 04:23:26 +0000</pubDate>
@@ -71,11 +76,6 @@
       <title>Venomode Mesa v1.0.1-R2R</title>
       <link>https://audioz.download/software/win/287587-download_venomode-mesa-v101-r2r.html</link>
       <pubDate>Tue, 16 Dec 2025 05:07:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural DSP Soldano SLO-100 X v1.0.0-R2R</title>
-      <link>https://audioz.download/software/win/287584-download_neural-dsp-soldano-slo-100-x-v100-r2r.html</link>
-      <pubDate>Tue, 16 Dec 2025 01:52:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
