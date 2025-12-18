@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Arturia V Collection 11 Pro.v11.2.0-R2R</title>
+      <link>https://audioz.download/software/win/287683-download_arturia-v-collection-11-prov1120-r2r.html</link>
+      <pubDate>Thu, 18 Dec 2025 06:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arturia V Collection 11 Pro v11.2.0 Samples-R2R</title>
+      <link>https://audioz.download/software/win/287682-download_arturia-v-collection-11-pro-v1120-samples-r2r.html</link>
+      <pubDate>Thu, 18 Dec 2025 06:23:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Fazertone Furnace v0.0.1-MOCHA</title>
       <link>https://audioz.download/software/287681-download_fazertone-furnace-v001-mocha.html</link>
       <pubDate>Thu, 18 Dec 2025 06:05:43 +0000</pubDate>
@@ -91,16 +101,6 @@
       <title>Steinberg VST Live Pro v2.2.90</title>
       <link>https://audioz.download/software/win/287630-download_steinberg-vst-live-pro-v2290.html</link>
       <pubDate>Wed, 17 Dec 2025 09:38:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kushview reTuner v1.0.0 WiN Mac [FREE]</title>
-      <link>https://audioz.download/software/win/287594-download_kushview-retuner-v100-win-mac-free.html</link>
-      <pubDate>Wed, 17 Dec 2025 09:02:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tugrulakyuz TugMoveEffect (Multi FX) v1.0.0 WiN Mac [FREE]</title>
-      <link>https://audioz.download/software/win/287593-download_tugrulakyuz-tugmoveeffect-multi-fx-v100-win-mac-free.html</link>
-      <pubDate>Wed, 17 Dec 2025 09:00:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
