@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Bitwig Studio 6 beta 10 WiN MacOSX LiNUX - Team Totoro</title>
+      <link>https://audioz.download/software/win/287634-download_no-mirrors-bitwig-studio-6-beta-10-win-macosx-linux-team-totoro.html</link>
+      <pubDate>Thu, 18 Dec 2025 18:14:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Arturia Sound Banks 2025.12 Updates Only - V.R</title>
       <link>https://audioz.download/software/287720-download_arturia-sound-banks-202512-updates-only-vr.html</link>
       <pubDate>Thu, 18 Dec 2025 15:56:20 +0000</pubDate>
@@ -36,11 +41,6 @@
       <title>Arturia V Collection 11 Pro v11.2.0 Samples-R2R</title>
       <link>https://audioz.download/software/win/287682-download_arturia-v-collection-11-pro-v1120-samples-r2r.html</link>
       <pubDate>Thu, 18 Dec 2025 06:23:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fazertone Furnace v0.0.1-MOCHA</title>
-      <link>https://audioz.download/software/287681-download_fazertone-furnace-v001-mocha.html</link>
-      <pubDate>Thu, 18 Dec 2025 06:05:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
