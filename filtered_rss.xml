@@ -3,6 +3,26 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>PSPaudioware PSP Metra v1.0.0-R2R</title>
+      <link>https://audioz.download/software/win/288918-download_pspaudioware-psp-metra-v100-r2r.html</link>
+      <pubDate>Wed, 14 Jan 2026 13:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>KORG Collection 6 v6.2.0-R2R</title>
+      <link>https://audioz.download/software/win/288917-download_korg-collection-6-v620-r2r.html</link>
+      <pubDate>Wed, 14 Jan 2026 13:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>UJAM SUBCRAFT v1.1.0-R2R</title>
+      <link>https://audioz.download/software/win/288916-download_ujam-subcraft-v110-r2r.html</link>
+      <pubDate>Wed, 14 Jan 2026 13:24:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steinberg VST Connect Pro v5.6.10-R2R</title>
+      <link>https://audioz.download/software/win/288915-download_steinberg-vst-connect-pro-v5610-r2r.html</link>
+      <pubDate>Wed, 14 Jan 2026 13:21:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Transcribe! v9.50.1</title>
       <link>https://audioz.download/software/win/288909-download_transcribe-v9501.html</link>
       <pubDate>Wed, 14 Jan 2026 08:57:07 +0000</pubDate>
@@ -26,16 +46,6 @@
       <title>Adobe After Effects 2025 v25.6.4 (x64) Multilingual</title>
       <link>https://audioz.download/software/288864-download_adobe-after-effects-2025-v2564-x64-multilingual.html</link>
       <pubDate>Mon, 12 Jan 2026 20:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Media Encoder 2025 v25.6.4</title>
-      <link>https://audioz.download/software/win/288863-download_adobe-media-encoder-2025-v2564.html</link>
-      <pubDate>Mon, 12 Jan 2026 20:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Audition 2025 v25.6.4</title>
-      <link>https://audioz.download/software/win/288862-download_adobe-audition-2025-v2564.html</link>
-      <pubDate>Mon, 12 Jan 2026 20:17:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
