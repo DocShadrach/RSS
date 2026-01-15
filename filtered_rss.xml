@@ -3,6 +3,21 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>SonicWorld Telsie S v1.0.0-SEnki</title>
+      <link>https://audioz.download/software/288969-download_sonicworld-telsie-s-v100-senki.html</link>
+      <pubDate>Thu, 15 Jan 2026 15:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turnt Plugins Vocal Felt v1.0.4-SEnki</title>
+      <link>https://audioz.download/software/288968-download_turnt-plugins-vocal-felt-v104-senki.html</link>
+      <pubDate>Thu, 15 Jan 2026 14:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turnt Plugins Tape Bloom v2.0.1-SEnki</title>
+      <link>https://audioz.download/software/288967-download_turnt-plugins-tape-bloom-v201-senki.html</link>
+      <pubDate>Thu, 15 Jan 2026 14:37:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Wasted Audio WSTD M3NGLR v1.1.1 VST (Win/macOS/Linux)-BTCR</title>
       <link>https://audioz.download/software/win/288957-download_wasted-audio-wstd-m3nglr-v111-win-macos-linux-btcr.html</link>
       <pubDate>Thu, 15 Jan 2026 09:42:55 +0000</pubDate>
@@ -111,11 +126,6 @@
       <title>Transcribe! v9.50.1</title>
       <link>https://audioz.download/software/win/288909-download_transcribe-v9501.html</link>
       <pubDate>Wed, 14 Jan 2026 08:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neural DSP Morgan Amps Suite v1.1.1-R2R</title>
-      <link>https://audioz.download/software/win/288903-download_neural-dsp-morgan-amps-suite-v111-r2r.html</link>
-      <pubDate>Wed, 14 Jan 2026 00:11:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
