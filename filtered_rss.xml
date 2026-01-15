@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Apulsoft apVerb v1.2.3-SEnki</title>
+      <link>https://audioz.download/software/288977-download_apulsoft-apverb-v123-senki.html</link>
+      <pubDate>Thu, 15 Jan 2026 17:08:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Korneff Audio SITRAL Klangfilter W295 v1.0.1-SEnki</title>
       <link>https://audioz.download/software/288970-download_korneff-audio-sitral-klangfilter-w295-v101-senki.html</link>
       <pubDate>Thu, 15 Jan 2026 15:35:36 +0000</pubDate>
@@ -111,21 +116,6 @@
       <title>PSPaudioware PSP Metra v1.0.0-R2R</title>
       <link>https://audioz.download/software/win/288918-download_pspaudioware-psp-metra-v100-r2r.html</link>
       <pubDate>Wed, 14 Jan 2026 13:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>KORG Collection 6 v6.2.0-R2R</title>
-      <link>https://audioz.download/software/win/288917-download_korg-collection-6-v620-r2r.html</link>
-      <pubDate>Wed, 14 Jan 2026 13:27:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>UJAM SUBCRAFT v1.1.0-R2R</title>
-      <link>https://audioz.download/software/win/288916-download_ujam-subcraft-v110-r2r.html</link>
-      <pubDate>Wed, 14 Jan 2026 13:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steinberg VST Connect Pro v5.6.10-R2R</title>
-      <link>https://audioz.download/software/win/288915-download_steinberg-vst-connect-pro-v5610-r2r.html</link>
-      <pubDate>Wed, 14 Jan 2026 13:21:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
