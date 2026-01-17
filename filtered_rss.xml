@@ -3,6 +3,31 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Arturia Sound Banks 2026.1 Updates Only - V.R</title>
+      <link>https://audioz.download/software/289115-download_arturia-sound-banks-20261-updates-only-vr.html</link>
+      <pubDate>Sat, 17 Jan 2026 12:54:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arturia Sound Banks Bundle 2025.12 - V.R</title>
+      <link>https://audioz.download/software/289114-download_arturia-sound-banks-bundle-202512-vr.html</link>
+      <pubDate>Sat, 17 Jan 2026 12:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fender Studio Pro 8 v8.0.0-R2R</title>
+      <link>https://audioz.download/software/win/289113-download_fender-studio-pro-8-v800-r2r.html</link>
+      <pubDate>Sat, 17 Jan 2026 12:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>TEAM R2R Sphere Manager v3.0.0-R2R</title>
+      <link>https://audioz.download/software/win/289112-download_team-r2r-sphere-manager-v300-r2r.html</link>
+      <pubDate>Sat, 17 Jan 2026 12:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>DoublePi Vovious v1.0.9 - V.R</title>
+      <link>https://audioz.download/software/289109-download_doublepi-vovious-v109-vr.html</link>
+      <pubDate>Sat, 17 Jan 2026 12:32:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Diamond Cut Forensics Audio Laboratory 11.09</title>
       <link>https://audioz.download/software/289103-download_diamond-cut-forensics-audio-laboratory-1109.html</link>
       <pubDate>Sat, 17 Jan 2026 03:39:29 +0000</pubDate>
@@ -46,21 +71,6 @@
       <title>Newfangled Audio Invigorate v1.4.0-R2R</title>
       <link>https://audioz.download/software/win/289057-download_newfangled-audio-invigorate-v140-r2r.html</link>
       <pubDate>Fri, 16 Jan 2026 16:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newfangled Audio Generate v1.7.0-R2R</title>
-      <link>https://audioz.download/software/win/289056-download_newfangled-audio-generate-v170-r2r.html</link>
-      <pubDate>Fri, 16 Jan 2026 16:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newfangled Audio Elevate Bundle v1.14.0-R2R</title>
-      <link>https://audioz.download/software/win/289055-download_newfangled-audio-elevate-bundle-v1140-r2r.html</link>
-      <pubDate>Fri, 16 Jan 2026 16:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newfangled Audio Articulate v1.1.0-R2R</title>
-      <link>https://audioz.download/software/win/289054-download_newfangled-audio-articulate-v110-r2r.html</link>
-      <pubDate>Fri, 16 Jan 2026 16:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
