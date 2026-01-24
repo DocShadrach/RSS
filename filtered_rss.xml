@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Karaosoft Karma 2026.1.20</title>
+      <link>https://audioz.download/software/win/289350-download_karaosoft-karma-2026120.html</link>
+      <pubDate>Sat, 24 Jan 2026 00:20:01 +0000</pubDate>
+    </item>
+    <item>
       <title>VoiceMaster v1.0.3 WiN</title>
       <link>https://audioz.download/software/289315-download_voicemaster-v103-win.html</link>
       <pubDate>Fri, 23 Jan 2026 23:55:25 +0000</pubDate>
@@ -56,11 +61,6 @@
       <title>Steinberg HALion Sonic v7.1.50</title>
       <link>https://audioz.download/software/win/289299-download_steinberg-halion-sonic-v7150.html</link>
       <pubDate>Thu, 22 Jan 2026 12:24:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steinberg HALion v7.1.50</title>
-      <link>https://audioz.download/software/win/289298-download_steinberg-halion-v7150.html</link>
-      <pubDate>Thu, 22 Jan 2026 12:17:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
