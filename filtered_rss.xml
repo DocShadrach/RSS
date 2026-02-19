@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Cherry Audio SH-MAX v1.0.4.52-R2R</title>
+      <link>https://audioz.download/software/win/290818-download_cherry-audio-sh-max-v10452-r2r.html</link>
+      <pubDate>Thu, 19 Feb 2026 15:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ebony Systems E1 v1.0.8-SEnki</title>
+      <link>https://audioz.download/software/290817-download_ebony-systems-e1-v108-senki.html</link>
+      <pubDate>Thu, 19 Feb 2026 14:43:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Sonible Puffer Fish v1.0.1-R2R</title>
       <link>https://audioz.download/software/win/290815-download_sonible-puffer-fish-v101-r2r.html</link>
       <pubDate>Thu, 19 Feb 2026 13:21:48 +0000</pubDate>
@@ -56,11 +66,6 @@
       <title>Red Rock Sound 11FF v1.0.0-SEnki</title>
       <link>https://audioz.download/software/290790-download_red-rock-sound-11ff-v100-senki.html</link>
       <pubDate>Thu, 19 Feb 2026 05:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>MiniMeters v1.0.23.164 (Win/macOS/Linux)</title>
-      <link>https://audioz.download/software/win/290784-download_minimeters-v1023164-win-macos-linux.html</link>
-      <pubDate>Wed, 18 Feb 2026 21:49:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
