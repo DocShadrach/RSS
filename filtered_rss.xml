@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Steinberg Groove Agent v6.0.20-R2R</title>
+      <link>https://audioz.download/software/win/290869-download_steinberg-groove-agent-v6020-r2r.html</link>
+      <pubDate>Fri, 20 Feb 2026 18:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steinberg Groove Agent Factory Content v6.0.0-R2R</title>
+      <link>https://audioz.download/software/win/290868-download_steinberg-groove-agent-factory-content-v600-r2r.html</link>
+      <pubDate>Fri, 20 Feb 2026 18:10:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Higher Plane SpaceWalk (Ambient Chord Progression Generator) WIN v1.1.4</title>
       <link>https://audioz.download/software/win/290813-download_higher-plane-spacewalk-ambient-chord-progression-generator-win-v114.html</link>
       <pubDate>Fri, 20 Feb 2026 15:13:07 +0000</pubDate>
@@ -56,16 +66,6 @@
       <title>MiniMeters v1.0.23.166 (Win/macOS/Linux)</title>
       <link>https://audioz.download/software/win/290819-download_minimeters-v1023166-win-macos-linux.html</link>
       <pubDate>Thu, 19 Feb 2026 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cherry Audio SH-MAX v1.0.4.52-R2R</title>
-      <link>https://audioz.download/software/win/290818-download_cherry-audio-sh-max-v10452-r2r.html</link>
-      <pubDate>Thu, 19 Feb 2026 15:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ebony Systems E1 v1.0.8-SEnki</title>
-      <link>https://audioz.download/software/290817-download_ebony-systems-e1-v108-senki.html</link>
-      <pubDate>Thu, 19 Feb 2026 14:43:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
