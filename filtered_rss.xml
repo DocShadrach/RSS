@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Arturia FX Collection 6 PRO - V.R</title>
+      <link>https://audioz.download/software/290834-download_arturia-fx-collection-6-pro-vr.html</link>
+      <pubDate>Fri, 20 Feb 2026 01:43:18 +0000</pubDate>
+    </item>
+    <item>
       <title>AVS Audio Converter v26.0.2.17</title>
       <link>https://audioz.download/software/win/290824-download_avs-audio-converter-v260217.html</link>
       <pubDate>Thu, 19 Feb 2026 20:16:39 +0000</pubDate>
@@ -81,11 +86,6 @@
       <title>Three-Body Technology Future MB v1.0.0-SEnki</title>
       <link>https://audioz.download/software/290791-download_three-body-technology-future-mb-v100-senki.html</link>
       <pubDate>Thu, 19 Feb 2026 05:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red Rock Sound 11FF v1.0.0-SEnki</title>
-      <link>https://audioz.download/software/290790-download_red-rock-sound-11ff-v100-senki.html</link>
-      <pubDate>Thu, 19 Feb 2026 05:20:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
