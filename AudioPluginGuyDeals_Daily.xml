@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2026-02-20)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2026-02-21)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2026-02-20.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2026-02-21.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[FREEBIE] [SAVE BIG] Gooey Audio|Get 100% off The Freq by Gooey Audio for Free (Normally $29).?NEW</title>
-<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=rech5c0Y6Iaf62KAt</link>
-<description>Descuento: 100% - Desarrollador: Gooey Audio - Finaliza: 2026-03-05</description>
-<pubDate>Fri, 20 Feb 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=rech5c0Y6Iaf62KAt</guid>
+<title>[HOT] Softube|Softube Weekly Deals &#8211; 67% off on Parallels synth plugin for Win &#038; Mac.?NEW</title>
+<link>https://www.audiopluginguy.com/softube/</link>
+<description>Descuento: 67% - Desarrollador: Softube - Finaliza: 2026-02-24</description>
+<pubDate>Sat, 21 Feb 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/softube/</guid>
 </item>
 <item>
-<title>[HOT] Solid State Logic|Get 33% off SSL 4K Bundle by Solid State Logic. The discounted price is $199.?NEW</title>
-<link>https://www.audiopluginguy.com/solid-state-logic/</link>
-<description>Descuento: 33% - Desarrollador: Solid State Logic - Finaliza: 2026-03-02</description>
-<pubDate>Fri, 20 Feb 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/solid-state-logic/</guid>
-</item>
-<item>
-<title>[HOT] iZotope|Get 69% off RX 11 Elements by iZotope. The discounted price is $29.99.?NEW</title>
-<link>https://www.audiopluginguy.com/izotope/</link>
-<description>Descuento: 69% - Desarrollador: iZotope - Finaliza: 2026-03-01</description>
-<pubDate>Fri, 20 Feb 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/izotope/</guid>
+<title>[HOT] UVI|UVI is offering 37% off on the SonicBundle, their ultimate collection including 116 products (1,000+ instruments &#038; effects).?NEW</title>
+<link>https://www.audiopluginguy.com/uvi/</link>
+<description>Descuento: 37% - Desarrollador: UVI - Finaliza: 2026-03-08</description>
+<pubDate>Sat, 21 Feb 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/uvi/</guid>
 </item>
 </channel>
 </rss>
