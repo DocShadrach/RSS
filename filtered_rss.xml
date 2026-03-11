@@ -3,14 +3,14 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Cockos REAPER v7.65</title>
+      <link>https://audioz.download/software/win/291904-download_cockos-reaper-v765.html</link>
+      <pubDate>Wed, 11 Mar 2026 17:25:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Bitwig Studio 6 v6.0 WiN/MacOSX/LiNUX-Team Totoro</title>
       <link>https://audioz.download/software/win/291888-download_bitwig-studio-6-v60-win-macosx-linux-team-totoro.html</link>
       <pubDate>Wed, 11 Mar 2026 14:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voice Creator Pro v1.1.9</title>
-      <link>https://audioz.download/software/win/291864-download_voice-creator-pro-v119.html</link>
-      <pubDate>Tue, 10 Mar 2026 23:43:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
