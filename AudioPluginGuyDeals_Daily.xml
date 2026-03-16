@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2026-03-13)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2026-03-15)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2026-03-13.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2026-03-15.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[SAVE BIG] |Get 80% off UVI Darklight IIx at Audio Deluxe. The discounted price is $19.?ENDSSOON!?NEW</title>
-<link>https://audiodeluxe.com/collections/software/products/uvi-darklight-iix?sca_ref=8652346.POlMzknLq02of5K&#038;sca_source=APG</link>
-<description>Descuento: 80% - Desarrollador:  - Finaliza: 2026-03-15</description>
-<pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://audiodeluxe.com/collections/software/products/uvi-darklight-iix?sca_ref=8652346.POlMzknLq02of5K&#038;sca_source=APG</guid>
+<title>[FREEBIE] [SAVE BIG] Atlas DSP|Atlas DSP is offering DI KEN overdrive plugin for Win &#038; Mac for free.?NEW</title>
+<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recmajTYyTn0Yhl7n</link>
+<description>Descuento: 100% - Desarrollador: Atlas DSP - Finaliza: Unknown</description>
+<pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recmajTYyTn0Yhl7n</guid>
 </item>
 <item>
-<title>[FREEBIE] [SAVE BIG] Vicious Antelope|Get Vicious Saws by Vicious Antelope free (regularly $28).?NEW</title>
-<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=rectM2hJjU2napskM</link>
-<description>Descuento: 100% - Desarrollador: Vicious Antelope - Finaliza: 2026-03-26</description>
-<pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=rectM2hJjU2napskM</guid>
+<title>[HOT] Acustica Audio|Acustica Audio has released Yellow tube compressor and saturator plugin for Mac &#038; Win. The intro is 59% off.?NEW</title>
+<link>https://www.audiopluginguy.com/acustica-audio/</link>
+<description>Descuento: 59% - Desarrollador: Acustica Audio - Finaliza: 2026-04-09</description>
+<pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/acustica-audio/</guid>
 </item>
 <item>
-<title>[HOT] XLN Audio|Get up to 59% off in the XLN Audio Spring Sale.?NEW</title>
+<title>[HOT] Native Instruments|Native Instruments Special Deals &#8211; 50% off on scoring libraries.?ENDSSOON!?NEW</title>
+<link>https://www.audiopluginguy.com/native-instruments/</link>
+<description>Descuento: 50% - Desarrollador: Native Instruments - Finaliza: 2026-03-17</description>
+<pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/native-instruments/</guid>
+</item>
+<item>
+<title>[HOT] XLN Audio|XLN Audio Spring Sale &#8211; up to 60% off on all products.?NEW</title>
 <link>https://www.audiopluginguy.com/xln-audio/</link>
-<description>Descuento: 59% - Desarrollador: XLN Audio - Finaliza: 2026-03-29</description>
-<pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+<description>Descuento: 60% - Desarrollador: XLN Audio - Finaliza: 2026-03-29</description>
+<pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.audiopluginguy.com/xln-audio/</guid>
 </item>
 </channel>
