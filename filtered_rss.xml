@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Waldorf Blofeld v1.2.0-Articstorm</title>
+      <link>https://audioz.download/software/292502-download_waldorf-blofeld-v120-articstorm.html</link>
+      <pubDate>Fri, 20 Mar 2026 18:08:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Steinberg VST Live Pro 2.2.110</title>
       <link>https://audioz.download/software/292491-download_steinberg-vst-live-pro-22110.html</link>
       <pubDate>Fri, 20 Mar 2026 12:14:18 +0000</pubDate>
@@ -46,26 +51,6 @@
       <title>Waldorf Attack 3 v3.0.1 (WiN and macOS)-R2R</title>
       <link>https://audioz.download/software/win/292449-download_waldorf-attack-3-v301-win-and-macos-r2r.html</link>
       <pubDate>Thu, 19 Mar 2026 17:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>iZotope Tonal Balance Control 3 v3.0.0-R2R</title>
-      <link>https://audioz.download/software/win/292448-download_izotope-tonal-balance-control-3-v300-r2r.html</link>
-      <pubDate>Thu, 19 Mar 2026 17:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metric Halo Make Believe DBVerb v4.1.0.264-R2R</title>
-      <link>https://audioz.download/software/win/292447-download_metric-halo-make-believe-dbverb-v410264-r2r.html</link>
-      <pubDate>Thu, 19 Mar 2026 17:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metric Halo Make Believe CGII v4.1.0.264-R2R</title>
-      <link>https://audioz.download/software/win/292446-download_metric-halo-make-believe-cgii-v410264-r2r.html</link>
-      <pubDate>Thu, 19 Mar 2026 16:57:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metric Halo MELD v4.1.0.264-R2R</title>
-      <link>https://audioz.download/software/win/292445-download_metric-halo-meld-v410264-r2r.html</link>
-      <pubDate>Thu, 19 Mar 2026 16:54:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
