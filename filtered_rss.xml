@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Cockos REAPER v7.67</title>
+      <link>https://audioz.download/software/win/292926-download_cockos-reaper-v767.html</link>
+      <pubDate>Mon, 30 Mar 2026 00:03:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>BorisFX SoundForge Plus 2026.0 - V.R</title>
+      <link>https://audioz.download/software/292925-download_borisfx-soundforge-plus-20260-vr.html</link>
+      <pubDate>Sun, 29 Mar 2026 23:45:32 +0000</pubDate>
+    </item>
+    <item>
       <title>SingleCellSoftware Rej Pirier Caustic 3 v3.2.2 DAW android apk 64bit , win Caustic 3 v3.2</title>
       <link>https://audioz.download/software/win/292887-download_singlecellsoftware-rej-pirier-caustic-3-v322-daw-android-apk-64bit-win-caustic-3-v32.html</link>
       <pubDate>Sun, 29 Mar 2026 18:42:21 +0000</pubDate>
@@ -26,11 +36,6 @@
       <title>Wayhan Naked EQ v1.0.0 VST3 WiN [FREE]</title>
       <link>https://audioz.download/software/292886-download_wayhan-naked-eq-v100-vst3-win-free.html</link>
       <pubDate>Sat, 28 Mar 2026 21:13:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bertom Audio EQ Curve Analyzer v2.1.3 VST3 AU AAX WiN MAC LiNUX [FREE]</title>
-      <link>https://audioz.download/software/292883-download_bertom-audio-eq-curve-analyzer-v213-vst3-au-aax-win-mac-linux-free.html</link>
-      <pubDate>Sat, 28 Mar 2026 19:01:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
