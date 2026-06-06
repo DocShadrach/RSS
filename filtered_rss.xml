@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Blackmagic Design DaVinci Resolve Studio v21.0.0.48</title>
+      <link>https://audioz.download/software/win/296223-download_blackmagic-design-davinci-resolve-studio-v210048.html</link>
+      <pubDate>Sat, 06 Jun 2026 21:59:29 +0000</pubDate>
+    </item>
+    <item>
       <title>SyntaxAudio v3.0 WiN Professional Audio File Renaming</title>
       <link>https://audioz.download/software/win/296213-download_syntaxaudio-v30-professional-audio-file-renaming.html</link>
       <pubDate>Sat, 06 Jun 2026 20:12:45 +0000</pubDate>
@@ -36,16 +41,6 @@
       <title>DoublePi Vovious v1.0.14 - V.R</title>
       <link>https://audioz.download/software/296203-download_doublepi-vovious-v1014-vr.html</link>
       <pubDate>Sat, 06 Jun 2026 07:59:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Usual Suspects Xenia (DSP56300 Emulator) 2.2.6 WiN Mac Linux + ROMs [FREE]</title>
-      <link>https://audioz.download/software/win/296105-download_the-usual-suspects-xenia-dsp56300-emulator-226-win-mac-linux-roms-free.html</link>
-      <pubDate>Sat, 06 Jun 2026 02:53:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Usual Suspects Vavra (DSP56300 Emulator) 2.2.6 WiN Mac Linux [FREE]</title>
-      <link>https://audioz.download/software/win/296104-download_the-usual-suspects-vavra-dsp56300-emulator-226-win-mac-linux-free.html</link>
-      <pubDate>Sat, 06 Jun 2026 02:53:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
