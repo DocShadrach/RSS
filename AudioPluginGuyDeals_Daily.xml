@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2026-07-10)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2026-07-11)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2026-07-10.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2026-07-11.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[HOT] Brainworx|Plugin Alliance|Get up to 84% off in the Plugin Alliance &#038; Brainworx July Sale.!? NEW BIG DISCOUNT</title>
-<link>https://www.audiopluginguy.com/brainworx/</link>
-<description>Descuento: 84% - Desarrollador: Brainworx&nbsp;|&nbsp;Plugin Alliance - Finaliza: 2026-07-31</description>
-<pubDate>Fri, 10 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/brainworx/</guid>
+<title>[HOT] Softube|Softube Weekly Deals &#8211; 73% off on Echoes delay plugin.!? NEW</title>
+<link>https://www.audiopluginguy.com/softube/</link>
+<description>Descuento: 73% - Desarrollador: Softube - Finaliza: 2026-07-14</description>
+<pubDate>Sat, 11 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/softube/</guid>
 </item>
 <item>
-<title>[FREEBIE] Friendgineer Labs Inc|Chance by Tokyo Speirs &#8211; a free MultiFX randomizer.!? NEW</title>
-<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recTFTk53huFxYAO9</link>
-<description>Descuento: 100% - Desarrollador: Friendgineer Labs Inc - Finaliza: None</description>
-<pubDate>Fri, 10 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recTFTk53huFxYAO9</guid>
+<title>[HOT] Sonnox|Sonnox Summer Sale has been extended &#8211; up to 87% off on plugins and bundles.!? NEW BIG DISCOUNT</title>
+<link>https://www.audiopluginguy.com/sonnox/</link>
+<description>Descuento: 87% - Desarrollador: Sonnox - Finaliza: 2026-07-31</description>
+<pubDate>Sat, 11 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/sonnox/</guid>
+</item>
+<item>
+<title>[FREEBIE] NoizLabs|NoizLabs has released Beheader clipper and saturation plugin for Mac &#038; Win. The plugin is available as a free download for a limited time.!? NEW</title>
+<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recLy7evY84VBKccE</link>
+<description>Descuento: 100% - Desarrollador: NoizLabs - Finaliza: Unknown</description>
+<pubDate>Sat, 11 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recLy7evY84VBKccE</guid>
+</item>
+<item>
+<title>[HOT] UVI|UVI Bastille Day Sale &#8211; get a $/?30 off on purchases of $/?99 or more with the code: BASTILLE30; get a $/?50 off on purchases of $/?149 or more with the code: BASTILLE50.!? NEW</title>
+<link>https://www.audiopluginguy.com/uvi/</link>
+<description>Descuento: 33% - Desarrollador: UVI - Finaliza: 2026-07-15</description>
+<pubDate>Sat, 11 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/uvi/</guid>
 </item>
 </channel>
 </rss>
