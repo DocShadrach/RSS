@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>KORG TRITON v1.4.7-R2R</title>
+      <link>https://audioz.download/software/win/298117-download_korg-triton-v147-r2r.html</link>
+      <pubDate>Sun, 19 Jul 2026 18:18:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>KORG TRINITY v1.1.4-R2R</title>
+      <link>https://audioz.download/software/win/298116-download_korg-trinity-v114-r2r.html</link>
+      <pubDate>Sun, 19 Jul 2026 18:18:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Heckmann Audio - u-he Zebra3 v3.0.2.22175 - V.R</title>
       <link>https://audioz.download/software/298115-download_heckmann-audio-u-he-zebra3-v30222175-vr.html</link>
       <pubDate>Sun, 19 Jul 2026 18:05:28 +0000</pubDate>
@@ -61,16 +71,6 @@
       <title>EVA Instruments Nearizer FX VST3 WiN macOS</title>
       <link>https://audioz.download/software/win/298085-download_eva-instruments-nearizer-fx-vst3-win-macos.html</link>
       <pubDate>Sat, 18 Jul 2026 16:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Socalabs Identity v1.0.5 WiN Mac Linux [FREE]</title>
-      <link>https://audioz.download/software/win/297985-download_socalabs-identity-v105-win-mac-linux-free.html</link>
-      <pubDate>Sat, 18 Jul 2026 15:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musical Entropy Voyage Voyage (Shimmer Reverb) v1.0.1 WiN Mac Linux [FREE]</title>
-      <link>https://audioz.download/software/win/297984-download_musical-entropy-voyage-voyage-shimmer-reverb-v101-win-mac-linux-free.html</link>
-      <pubDate>Sat, 18 Jul 2026 15:26:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
