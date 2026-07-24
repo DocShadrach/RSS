@@ -3,6 +3,31 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Fender Studio Pro 8 Content-R2R</title>
+      <link>https://audioz.download/software/win/298315-download_fender-studio-pro-8-content-r2r.html</link>
+      <pubDate>Fri, 24 Jul 2026 05:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fender Studio Pro 8 v8.1.1-R2R</title>
+      <link>https://audioz.download/software/win/298314-download_fender-studio-pro-8-v811-r2r.html</link>
+      <pubDate>Fri, 24 Jul 2026 05:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fender Studio Hub v2.0.0-R2R</title>
+      <link>https://audioz.download/software/win/298313-download_fender-studio-hub-v200-r2r.html</link>
+      <pubDate>Fri, 24 Jul 2026 05:05:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fender Studio Pro 8 User Manual v8.1.0-R2R</title>
+      <link>https://audioz.download/software/win/298312-download_fender-studio-pro-8-user-manual-v810-r2r.html</link>
+      <pubDate>Fri, 24 Jul 2026 05:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>TEAM R2R Sphere Manager v3.1.0-R2R</title>
+      <link>https://audioz.download/software/win/298311-download_team-r2r-sphere-manager-v310-r2r.html</link>
+      <pubDate>Fri, 24 Jul 2026 04:54:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Native Instruments Komplete Kontrol v3.5.4-bobdule</title>
       <link>https://audioz.download/software/298309-download_native-instruments-komplete-kontrol-v354-bobdule.html</link>
       <pubDate>Fri, 24 Jul 2026 04:04:26 +0000</pubDate>
@@ -61,16 +86,6 @@
       <title>Amory Farms Instruments Markets WiN OSX-ARCADiA</title>
       <link>https://audioz.download/software/win/298279-download_amory-farms-instruments-markets-win-osx-arcadia.html</link>
       <pubDate>Thu, 23 Jul 2026 14:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Replay Media Catcher 2026.7.17.35 Multilingual</title>
-      <link>https://audioz.download/software/298266-download_replay-media-catcher-202671735-multilingual.html</link>
-      <pubDate>Thu, 23 Jul 2026 12:24:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amory Farms Instruments Conditions WiN OSX-ARCADiA</title>
-      <link>https://audioz.download/software/win/298271-download_amory-farms-instruments-conditions-win-osx-arcadia.html</link>
-      <pubDate>Thu, 23 Jul 2026 09:09:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
