@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Fender Studio Pro Plus Content 2026-R2R</title>
+      <link>https://audioz.download/software/win/298323-download_fender-studio-pro-plus-content-2026-r2r.html</link>
+      <pubDate>Fri, 24 Jul 2026 10:30:40 +0000</pubDate>
+    </item>
+    <item>
       <title>PSPaudioware PSP BBDelay v1.0.0-R2R</title>
       <link>https://audioz.download/software/win/298321-download_pspaudioware-psp-bbdelay-v100-r2r.html</link>
       <pubDate>Fri, 24 Jul 2026 09:07:46 +0000</pubDate>
@@ -96,11 +101,6 @@
       <title>Karanyi Sounds Wavesurfer v1.0.0 REGGED WiN/MacOS-BUBBiX</title>
       <link>https://audioz.download/software/298291-download_karanyi-sounds-wavesurfer-v100-regged-win-macos-bubbix.html</link>
       <pubDate>Thu, 23 Jul 2026 16:06:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karanyi Sounds Cloudmax v3.1.1.0-BUBBiX</title>
-      <link>https://audioz.download/software/298286-download_karanyi-sounds-cloudmax-v3110-bubbix.html</link>
-      <pubDate>Thu, 23 Jul 2026 15:24:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
