@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2026-07-24)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2026-07-25)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2026-07-24.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2026-07-25.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[HOT] Steinberg|Get 58% off Dorico Pro 6 Educational Edition by Steinberg. The discounted price is $149.99.!? NEW</title>
-<link>https://www.audiopluginguy.com/steinberg/</link>
-<description>Descuento: 58% - Desarrollador: Steinberg - Finaliza: 2026-07-31</description>
-<pubDate>Fri, 24 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/steinberg/</guid>
+<title>[FREEBIE] Venomode|Venomode has updated Mesa Lite, a free clipper plugin for Win, Mac &#038; Linux to v1.1.0.!? NEW</title>
+<link>https://www.audiopluginguy.com/venomode/</link>
+<description>Descuento: 100% - Desarrollador: Venomode - Finaliza: None</description>
+<pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/venomode/</guid>
 </item>
 <item>
-<title>[HOT] IK Multimedia|Get 88% off T-RackS Top 5 Bundle by IK Multimedia. The discounted price is $49.99.!? NEW BIG DISCOUNT</title>
-<link>https://www.audiopluginguy.com/ik-multimedia/</link>
-<description>Descuento: 88% - Desarrollador: IK Multimedia - Finaliza: 2026-07-31</description>
-<pubDate>Fri, 24 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/ik-multimedia/</guid>
+<title>[FREEBIE] Purafied Audio|Purafied Audio is offering Liquid Death Snare virtual instrument plugin for Mac &#038; Win as a free download.!? NEW</title>
+<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recpg3XLfyTji5ULk</link>
+<description>Descuento: 100% - Desarrollador: Purafied Audio - Finaliza: Unknown</description>
+<pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recpg3XLfyTji5ULk</guid>
 </item>
 <item>
-<title>[HOT] IK Multimedia|Get 61% off ReSing by IK Multimedia. The discounted price is $49.99.!? NEW</title>
-<link>https://www.audiopluginguy.com/ik-multimedia/</link>
-<description>Descuento: 61% - Desarrollador: IK Multimedia - Finaliza: 2026-08-03</description>
-<pubDate>Fri, 24 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/ik-multimedia/</guid>
+<title>[FREEBIE] Westwood Instruments|Westwood Instruments has just started to relaunch their free Kontakt Player libraries (Roots) as free instrument plugins for Win &#038; Mac.!? NEW</title>
+<link>https://www.audiopluginguy.com/westwood-instruments/</link>
+<description>Descuento: 100% - Desarrollador: Westwood Instruments - Finaliza: None</description>
+<pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/westwood-instruments/</guid>
+</item>
+<item>
+<title>[HOT] Minimal Audio|Minimal Audio Summer Sale &#8211; up to 75% off on all products.!? NEW</title>
+<link>https://www.audiopluginguy.com/minimal-audio/</link>
+<description>Descuento: 75% - Desarrollador: Minimal Audio - Finaliza: 2026-08-01</description>
+<pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/minimal-audio/</guid>
 </item>
 </channel>
 </rss>
