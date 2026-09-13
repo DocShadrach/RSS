@@ -1,44 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2026-09-11)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2026-09-12)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2026-09-11.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2026-09-12.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[HOT] Universal Audio|Get 37% off UAD Pick 3 Mix Tape by Universal Audio. The discounted price is $49.!? NEW</title>
-<link>https://www.audiopluginguy.com/universal-audio/</link>
-<description>Descuento: 37% - Desarrollador: Universal Audio - Finaliza: 2026-09-30</description>
-<pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/universal-audio/</guid>
+<title>[FREEBIE] Joey Sturgis Tones|Joey Sturgis Tones is offering Gemini Twin synth plugin for Mac &#038; Win as a free download.!? NEW</title>
+<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recNcRGGszyflKJGm</link>
+<description>Descuento: 100% - Desarrollador: Joey Sturgis Tones - Finaliza: 2026-09-16</description>
+<pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recNcRGGszyflKJGm</guid>
 </item>
 <item>
-<title>[HOT] Universal Audio|Get 30% off UAD Pick 5 Mix Tape by Universal Audio. The discounted price is $69.!? NEW</title>
-<link>https://www.audiopluginguy.com/universal-audio/</link>
-<description>Descuento: 30% - Desarrollador: Universal Audio - Finaliza: 2026-09-30</description>
-<pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/universal-audio/</guid>
-</item>
-<item>
-<title>[HOT] IK Multimedia|Get 76% off MODO MAX by IK Multimedia. The discounted price is $69.99.!? NEW</title>
-<link>https://www.audiopluginguy.com/ik-multimedia/</link>
-<description>Descuento: 76% - Desarrollador: IK Multimedia - Finaliza: 2026-09-23</description>
-<pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/ik-multimedia/</guid>
-</item>
-<item>
-<title>[FREEBIE] Quantum DSP|Get Metal Mayhem Vol. 2 Hybrid IR Library by Quantum DSP free, normally $15.!? NEW</title>
-<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recVimpvJxPmXvifw</link>
-<description>Descuento: 100% - Desarrollador: Quantum DSP - Finaliza: 2026-09-25</description>
-<pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recVimpvJxPmXvifw</guid>
-</item>
-<item>
-<title>[FREEBIE] Parish Audio|FREE for a limited time &#8211; Stereo Control by Parish Audio.!? NEW</title>
-<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recERXtgDynignWYI</link>
-<description>Descuento: 100% - Desarrollador: Parish Audio - Finaliza: Unknown</description>
-<pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recERXtgDynignWYI</guid>
+<title>[FREEBIE] Polarity Music|Polarity Music has released Polarity-Recorder, a free background audio recorder for Mac, Win &#038; Linux.!? NEW</title>
+<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recBRQg1q3pyPed6s</link>
+<description>Descuento: 100% - Desarrollador: Polarity Music - Finaliza: None</description>
+<pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recBRQg1q3pyPed6s</guid>
 </item>
 </channel>
 </rss>
