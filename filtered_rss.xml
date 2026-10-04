@@ -3,6 +3,16 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Cockos REAPER 7.82</title>
+      <link>https://audioz.download/software/win/302180-download_cockos-reaper-782.html</link>
+      <pubDate>Sun, 04 Oct 2026 22:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>2JR Gelato Distortion v1.0.0 VST3 WiN MAC</title>
+      <link>https://audioz.download/software/302026-download_2jr-gelato-distortion-vst3-win-mac.html</link>
+      <pubDate>Sun, 04 Oct 2026 22:01:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Rouven ?Kajuby? Dahlen Omni Delay WiN VST3 64-bit FREE</title>
       <link>https://audioz.download/software/win/302177-download_rouven-kajuby-dahlen-omni-delay-win-vst3-64-bit-free.html</link>
       <pubDate>Sun, 04 Oct 2026 20:18:16 +0000</pubDate>
@@ -31,31 +41,6 @@
       <title>Rouven ?Kajuby? Dahlen Stereo Unlimited WiN VST3 64-bit FREE</title>
       <link>https://audioz.download/software/win/302148-download_rouven-kajuby-dahlen-stereo-unlimited-win-vst3-64-bit-free.html</link>
       <pubDate>Sat, 03 Oct 2026 17:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rouven ?Kajuby? Dahlen Transition Filter WiN VST3 64-bit FREE</title>
-      <link>https://audioz.download/software/win/302147-download_rouven-kajuby-dahlen-transition-filter-win-vst3-64-bit-free.html</link>
-      <pubDate>Sat, 03 Oct 2026 17:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cymatics ATLAS Lite Version VST VST3 WiN MAC [FREE]</title>
-      <link>https://audioz.download/software/win/301695-download_cymatics-atlas-lite-version-vst-vst3-win-mac-free.html</link>
-      <pubDate>Sat, 03 Oct 2026 17:32:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cymatics CY-FAN Lite Version VST VST3 WiN MAC [FREE]</title>
-      <link>https://audioz.download/software/win/301694-download_cymatics-cy-fan-lite-version-vst-vst3-win-mac-free.html</link>
-      <pubDate>Sat, 03 Oct 2026 17:23:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sojus Records Ensoniq SD-1 v1.0.2 VST3 AU WiN MAC LiNUX [FREE] + ROM Firmware</title>
-      <link>https://audioz.download/software/302016-download_sojus-records-ensoniq-sd-1-v102-vst3-au-win-mac-linux-free-rom-firmware.html</link>
-      <pubDate>Sat, 03 Oct 2026 15:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>David John Whiting Wave Emulation v0.1.8-0.1.10 STANDALONE VST3 AU AAX WiN MAC [FREE] + ROM Firmware</title>
-      <link>https://audioz.download/software/302014-download_david-john-whiting-wave-emulation-v018-0110-standalone-vst3-au-aax-win-mac-free-rom-firmware.html</link>
-      <pubDate>Sat, 03 Oct 2026 15:16:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
