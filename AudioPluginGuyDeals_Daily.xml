@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2026-10-02)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2026-10-04)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2026-10-02.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2026-10-04.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[FREEBIE] Leson|Get DeepStereo Reverb Lite by Leson free, normally $19.99.!? NEW</title>
-<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recc1CaKOLhQRshyg</link>
-<description>Descuento: 100% - Desarrollador: Leson - Finaliza: 2026-10-15</description>
-<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recc1CaKOLhQRshyg</guid>
+<title>[FREEBIE] DAWJunkie|DAWJunkie has released Convolute, a free reverb for Mac &#038; Win.!? NEW</title>
+<link>https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recf88mAqINjLZq4a</link>
+<description>Descuento: 100% - Desarrollador: DAWJunkie - Finaliza: None</description>
+<pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://airtable.com/shriuFkfmESDCCwJE?prefill_Developer=recf88mAqINjLZq4a</guid>
+</item>
+<item>
+<title>[FREEBIE] Apogee|Apogee Soft Limit limiter and saturation plugin is free again following its move to Plugin Alliance.!? NEW</title>
+<link>https://www.audiopluginguy.com/apogee/</link>
+<description>Descuento: 100% - Desarrollador: Apogee - Finaliza: None</description>
+<pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/apogee/</guid>
+</item>
+<item>
+<title>[HOT] Solid State Logic|Solid State Logic is offering 86% off on SSL Reverb Collection bundle, featuring 4 reverb plugins.!? NEW BIG DISCOUNT</title>
+<link>https://www.audiopluginguy.com/solid-state-logic/</link>
+<description>Descuento: 86% - Desarrollador: Solid State Logic - Finaliza: 2026-10-14</description>
+<pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/solid-state-logic/</guid>
+</item>
+<item>
+<title>[FREEBIE] [HOT] Blue Cat Audio|Blue Cat Audio has released Blue Cat&#8217;s Free Amp 2.0, a free guitar and bass amp simulation plugin for Mac &#038; Win.!? NEW</title>
+<link>https://www.audiopluginguy.com/blue-cat-audio/</link>
+<description>Descuento: 100% - Desarrollador: Blue Cat Audio - Finaliza: None</description>
+<pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/blue-cat-audio/</guid>
+</item>
+<item>
+<title>[FREEBIE] HoRNet Plugins|HoRNet Plugins is offering ELM128 MK2 loudness meter plugin as a free download. Use the coupon code: ELMFREE.!? NEW</title>
+<link>https://www.audiopluginguy.com/hornet-plugins/</link>
+<description>Descuento: 100% - Desarrollador: HoRNet Plugins - Finaliza: 2026-10-08</description>
+<pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/hornet-plugins/</guid>
 </item>
 </channel>
 </rss>
