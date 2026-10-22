@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Ofertas Diarias de Audio Plugin Guy (2026-10-20)</title>
+<title>Ofertas Diarias de Audio Plugin Guy (2026-10-21)</title>
 <link>https://www.audiopluginguy.com/deals/</link>
-<description>Resumen de las mejores ofertas y freebies del d?a 2026-10-20.</description>
+<description>Resumen de las mejores ofertas y freebies del d?a 2026-10-21.</description>
 <atom:link href="https://raw.githubusercontent.com/DocShadrach/RSS/main/AudioPluginGuyDeals_Daily.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>[HOT] GForce Software|Get up to 70% off in the GForce Software Halloween Sale.!? NEW</title>
-<link>https://www.audiopluginguy.com/gforce-software/</link>
-<description>Descuento: 70% - Desarrollador: GForce Software - Finaliza: 2026-11-01</description>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.audiopluginguy.com/gforce-software/</guid>
+<title>[HOT] UJAM|Get up to 94% off in the UJAM Trick or Treat Halloween Sale.!? NEW BIG DISCOUNT</title>
+<link>https://www.audiopluginguy.com/ujam/</link>
+<description>Descuento: 94% - Desarrollador: UJAM - Finaliza: 2026-11-03</description>
+<pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/ujam/</guid>
+</item>
+<item>
+<title>[HOT] Baby Audio|Get 46% off Grainferno by Baby Audio. The discounted price is $69.!? NEW</title>
+<link>https://www.audiopluginguy.com/baby-audio/</link>
+<description>Descuento: 46% - Desarrollador: Baby Audio - Finaliza: 2026-10-26</description>
+<pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/baby-audio/</guid>
+</item>
+<item>
+<title>[FREEBIE] [HOT] UJAM|W.A. Production|Get your choice of UJAM UFX Reverb Version 2 or W. A. Production DJFX for free with any AudioDeluxe purchase.!? NEW</title>
+<link>https://www.audiopluginguy.com/ujam/</link>
+<description>Descuento: 100% - Desarrollador: UJAM&nbsp;|&nbsp;W.A. Production - Finaliza: 2026-10-31</description>
+<pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/ujam/</guid>
+</item>
+<item>
+<title>[HOT] Blue Cat Audio|Get 44% off Blue Cat&#8217;s Tuna by Blue Cat Audio. The discounted price is $5.!? NEW</title>
+<link>https://www.audiopluginguy.com/blue-cat-audio/</link>
+<description>Descuento: 44% - Desarrollador: Blue Cat Audio - Finaliza: 2026-11-03</description>
+<pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.audiopluginguy.com/blue-cat-audio/</guid>
 </item>
 </channel>
 </rss>
