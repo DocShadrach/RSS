@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Shadx2 KitSkin v2.4.0 WiN-STARZ</title>
+      <link>https://audioz.download/software/win/304343-download_shadx2-kitskin-v240-win-starz.html</link>
+      <pubDate>Thu, 12 Nov 2026 21:56:28 +0000</pubDate>
+    </item>
+    <item>
       <title>AtlasDSP Replacer v2.0.0 WiN MacOS</title>
       <link>https://audioz.download/software/win/304328-download_atlasdsp-replacer-v200-win-macos.html</link>
       <pubDate>Thu, 12 Nov 2026 18:41:35 +0000</pubDate>
@@ -101,16 +106,6 @@
       <title>Cymatics OMNICHOIR Choir Generator v1.0.0 WIN MAC-GTA</title>
       <link>https://audioz.download/software/304293-download_cymatics-omnichoir-choir-generator-v100-win-mac-gta.html</link>
       <pubDate>Thu, 12 Nov 2026 17:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cymatics OCCULAR MAX Advanced Audio Visualizer Plugin v1.0.2 WIN MAC-GTA</title>
-      <link>https://audioz.download/software/304292-download_cymatics-occular-max-advanced-audio-visualizer-plugin-v102-win-mac-gta.html</link>
-      <pubDate>Thu, 12 Nov 2026 17:38:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cymatics OCCULAR Advanced Audio Visualizer Plugin v1.0.2 WIN MAC-GTA</title>
-      <link>https://audioz.download/software/304291-download_cymatics-occular-advanced-audio-visualizer-plugin-v102-win-mac-gta.html</link>
-      <pubDate>Thu, 12 Nov 2026 17:37:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
