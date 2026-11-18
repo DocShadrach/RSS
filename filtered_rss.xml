@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>iZotope Equinox v1.2.0 - V.R</title>
+      <link>https://audioz.download/software/304699-download_izotope-equinox-v120-vr.html</link>
+      <pubDate>Wed, 18 Nov 2026 22:31:31 +0000</pubDate>
+    </item>
+    <item>
       <title>iZotope Aurora v1.2.0 - V.R</title>
       <link>https://audioz.download/software/304698-download_izotope-aurora-v120-vr.html</link>
       <pubDate>Wed, 18 Nov 2026 22:09:33 +0000</pubDate>
@@ -31,11 +36,6 @@
       <title>Arturia Sound Banks 2026.11 Updates Only - V.R</title>
       <link>https://audioz.download/software/win/304676-download_arturia-sound-banks-202611-updates-only-vr.html</link>
       <pubDate>Wed, 18 Nov 2026 16:07:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>RealVoice Pro v1.0.20</title>
-      <link>https://audioz.download/software/win/304653-download_realvoice-pro-v1020.html</link>
-      <pubDate>Wed, 18 Nov 2026 13:53:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
