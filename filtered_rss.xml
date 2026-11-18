@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Arturia Sound Banks 2026.11 Updates Only - V.R</title>
+      <link>https://audioz.download/software/win/304676-download_arturia-sound-banks-202611-updates-only-vr.html</link>
+      <pubDate>Wed, 18 Nov 2026 16:07:36 +0000</pubDate>
+    </item>
+    <item>
       <title>RealVoice Pro v1.0.20</title>
       <link>https://audioz.download/software/win/304653-download_realvoice-pro-v1020.html</link>
       <pubDate>Wed, 18 Nov 2026 13:53:26 +0000</pubDate>
@@ -46,21 +51,6 @@
       <title>MH-VESPER 1.1.0 VST3 WiN [FREE]</title>
       <link>https://audioz.download/software/win/304566-download_mh-vesper-110-vst3-win-free.html</link>
       <pubDate>Wed, 18 Nov 2026 09:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lux Cache petri and petri minis v1.6.0 WiN Standalone VST3</title>
-      <link>https://audioz.download/software/win/304626-download_lux-cache-petri-and-petri-minis-v160-win-standalone-vst3.html</link>
-      <pubDate>Tue, 17 Nov 2026 22:54:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yuri Semenov YS Digital EQ v1.0.1 WiN MAC [FREE]</title>
-      <link>https://audioz.download/software/304557-download_yuri-semenov-ys-digital-eq-v101-win-mac-free.html</link>
-      <pubDate>Tue, 17 Nov 2026 21:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>mardlib Ensoniq EPS-16 Plus v1.1.1 VST3 AU WiN MAC [FREE]</title>
-      <link>https://audioz.download/software/win/304555-download_mardlib-ensoniq-eps-16-plus-v111-vst3-au-win-mac-free.html</link>
-      <pubDate>Tue, 17 Nov 2026 20:58:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
