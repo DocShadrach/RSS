@@ -3,6 +3,11 @@
   <channel>
     <title>Audio wareZ</title>
     <item>
+      <title>Cockos REAPER v7.86-RLTS</title>
+      <link>https://audioz.download/software/win/305208-download_cockos-reaper-v786-rlts.html</link>
+      <pubDate>Fri, 27 Nov 2026 17:59:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Lewitt Audio Space Replicator (Headphone Calibration) v1.0.1 WiN MAC [Free]</title>
       <link>https://audioz.download/software/305169-download_lewitt-audio-space-replicator-headphone-calibration-v101-win-mac-free.html</link>
       <pubDate>Fri, 27 Nov 2026 17:13:48 +0000</pubDate>
@@ -26,26 +31,6 @@
       <title>KNIGHTSNARE Knight Space 74 v1.1.0 VST3 AU WiN MAC LiNUX [FREE]</title>
       <link>https://audioz.download/software/304918-download_knightsnare-knight-space-74-v110-vst3-au-win-mac-linux-free.html</link>
       <pubDate>Fri, 27 Nov 2026 14:45:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>KNIGHTSNARE Knight Expander 74 v1.0.2 VST3 AU WiN MAC LiNUX [FREE]</title>
-      <link>https://audioz.download/software/304917-download_knightsnare-knight-expander-74-v102-vst3-au-win-mac-linux-free.html</link>
-      <pubDate>Fri, 27 Nov 2026 14:43:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waves Ultimate 17 v26.11.27 Incl V.R Patch WiN</title>
-      <link>https://audioz.download/software/305199-download_waves-ultimate-17-v261127-incl-vr-patch-win.html</link>
-      <pubDate>Fri, 27 Nov 2026 13:32:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leawo Prof. Media v13.0.2.0 Multilingual</title>
-      <link>https://audioz.download/software/win/305195-download_leawo-prof-media-v13020-multilingual.html</link>
-      <pubDate>Fri, 27 Nov 2026 12:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arturia MiniFreak V v5.1.2 - V.R</title>
-      <link>https://audioz.download/software/305184-download_arturia-minifreak-v-v512-vr.html</link>
-      <pubDate>Fri, 27 Nov 2026 09:09:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
